@@ -3,350 +3,350 @@
  *	Material Design Red
  *
  */
-.md.red, .md.red.G500{outline-color: #F44336;}
-.md.red.G50{outline-color: #FFEBEE;}
-.md.red.G100{outline-color: #FFCDD2;}
-.md.red.G200{outline-color: #EF9A9A;}
-.md.red.G300{outline-color: #E57373;}
-.md.red.G400{outline-color: #EF5350;}
-.md.red.G600{outline-color: #E53935;}
-.md.red.G700{outline-color: #D32F2F;}
-.md.red.G800{outline-color: #C62828;}
-.md.red.G900{outline-color: #B71C1C;}
-.md.red.A100{outline-color: #FF8A80;}
-.md.red.A200{outline-color: #FF5252;}
-.md.red.A400{outline-color: #FF1744;}
-.md.red.A700{outline-color: #D50000;}
+.md-out.red, .md-out.red.G500{outline-color: #F44336;}
+.md-out.red.G50{outline-color: #FFEBEE;}
+.md-out.red.G100{outline-color: #FFCDD2;}
+.md-out.red.G200{outline-color: #EF9A9A;}
+.md-out.red.G300{outline-color: #E57373;}
+.md-out.red.G400{outline-color: #EF5350;}
+.md-out.red.G600{outline-color: #E53935;}
+.md-out.red.G700{outline-color: #D32F2F;}
+.md-out.red.G800{outline-color: #C62828;}
+.md-out.red.G900{outline-color: #B71C1C;}
+.md-out.red.A100{outline-color: #FF8A80;}
+.md-out.red.A200{outline-color: #FF5252;}
+.md-out.red.A400{outline-color: #FF1744;}
+.md-out.red.A700{outline-color: #D50000;}
 /*
  *
  *	Material Design Pink
  *
  */
-.md.pink, .md.pink.G500{outline-color: #E91E63;}
-.md.pink.G50{outline-color: #FCE4EC;}
-.md.pink.G100{outline-color: #F8BBD0;}
-.md.pink.G200{outline-color: #F48FB1;}
-.md.pink.G300{outline-color: #F06292;}
-.md.pink.G400{outline-color: #EC407A;}
-.md.pink.G600{outline-color: #D81B60;}
-.md.pink.G700{outline-color: #C2185B;}
-.md.pink.G800{outline-color: #AD1457;}
-.md.pink.G900{outline-color: #880E4F;}
-.md.pink.A100{outline-color: #FF80AB;}
-.md.pink.A200{outline-color: #FF4081;}
-.md.pink.A400{outline-color: #F50057;}
-.md.pink.A700{outline-color: #C51162;}
+.md-out.pink, .md-out.pink.G500{outline-color: #E91E63;}
+.md-out.pink.G50{outline-color: #FCE4EC;}
+.md-out.pink.G100{outline-color: #F8BBD0;}
+.md-out.pink.G200{outline-color: #F48FB1;}
+.md-out.pink.G300{outline-color: #F06292;}
+.md-out.pink.G400{outline-color: #EC407A;}
+.md-out.pink.G600{outline-color: #D81B60;}
+.md-out.pink.G700{outline-color: #C2185B;}
+.md-out.pink.G800{outline-color: #AD1457;}
+.md-out.pink.G900{outline-color: #880E4F;}
+.md-out.pink.A100{outline-color: #FF80AB;}
+.md-out.pink.A200{outline-color: #FF4081;}
+.md-out.pink.A400{outline-color: #F50057;}
+.md-out.pink.A700{outline-color: #C51162;}
 /*
  *
  *	Material Design Purple
  *
  */
-.md.purple, .md.purple.G500{outline-color: #9C27B0;}
-.md.purple.G50{outline-color: #F3E5F5;}
-.md.purple.G100{outline-color: #E1BEE7;}
-.md.purple.G200{outline-color: #CE93D8;}
-.md.purple.G300{outline-color: #BA68C8;}
-.md.purple.G400{outline-color: #AB47BC;}
-.md.purple.G600{outline-color: #8E24AA;}
-.md.purple.G700{outline-color: #7B1FA2;}
-.md.purple.G800{outline-color: #6A1B9A;}
-.md.purple.G900{outline-color: #4A148C;}
-.md.purple.A100{outline-color: #EA80FC;}
-.md.purple.A200{outline-color: #E040FB;}
-.md.purple.A400{outline-color: #D500F9;}
-.md.purple.A700{outline-color: #AA00FF;}
+.md-out.purple, .md-out.purple.G500{outline-color: #9C27B0;}
+.md-out.purple.G50{outline-color: #F3E5F5;}
+.md-out.purple.G100{outline-color: #E1BEE7;}
+.md-out.purple.G200{outline-color: #CE93D8;}
+.md-out.purple.G300{outline-color: #BA68C8;}
+.md-out.purple.G400{outline-color: #AB47BC;}
+.md-out.purple.G600{outline-color: #8E24AA;}
+.md-out.purple.G700{outline-color: #7B1FA2;}
+.md-out.purple.G800{outline-color: #6A1B9A;}
+.md-out.purple.G900{outline-color: #4A148C;}
+.md-out.purple.A100{outline-color: #EA80FC;}
+.md-out.purple.A200{outline-color: #E040FB;}
+.md-out.purple.A400{outline-color: #D500F9;}
+.md-out.purple.A700{outline-color: #AA00FF;}
 /*
  *
  *	Material Design Deep Purple
  *
  */
-.md.deep-purple, .md.deep-purple.G500{outline-color: #673AB7;}
-.md.deep-purple.G50{outline-color: #EDE7F6;}
-.md.deep-purple.G100{outline-color: #D1C4E9;}
-.md.deep-purple.G200{outline-color: #B39DDB;}
-.md.deep-purple.G300{outline-color: #9575CD;}
-.md.deep-purple.G400{outline-color: #7E57C2;}
-.md.deep-purple.G600{outline-color: #5E35B1;}
-.md.deep-purple.G700{outline-color: #512DA8;}
-.md.deep-purple.G800{outline-color: #4527A0;}
-.md.deep-purple.G900{outline-color: #311B92;}
-.md.deep-purple.A100{outline-color: #B388FF;}
-.md.deep-purple.A200{outline-color: #7C4DFF;}
-.md.deep-purple.A400{outline-color: #651FFF;}
-.md.deep-purple.A700{outline-color: #6200EA;}
+.md-out.deep-purple, .md-out.deep-purple.G500{outline-color: #673AB7;}
+.md-out.deep-purple.G50{outline-color: #EDE7F6;}
+.md-out.deep-purple.G100{outline-color: #D1C4E9;}
+.md-out.deep-purple.G200{outline-color: #B39DDB;}
+.md-out.deep-purple.G300{outline-color: #9575CD;}
+.md-out.deep-purple.G400{outline-color: #7E57C2;}
+.md-out.deep-purple.G600{outline-color: #5E35B1;}
+.md-out.deep-purple.G700{outline-color: #512DA8;}
+.md-out.deep-purple.G800{outline-color: #4527A0;}
+.md-out.deep-purple.G900{outline-color: #311B92;}
+.md-out.deep-purple.A100{outline-color: #B388FF;}
+.md-out.deep-purple.A200{outline-color: #7C4DFF;}
+.md-out.deep-purple.A400{outline-color: #651FFF;}
+.md-out.deep-purple.A700{outline-color: #6200EA;}
 /*
  *
  *	Material Design Deep Indigo 
  *
  */
-.md.indigo, .md.indigo.G500{outline-color: #3F51B5;}
-.md.indigo.G50{outline-color: #E8EAF6;}
-.md.indigo.G100{outline-color: #C5CAE9;}
-.md.indigo.G200{outline-color: #9FA8DA;}
-.md.indigo.G300{outline-color: #7986CB;}
-.md.indigo.G400{outline-color: #5C6BC0;}
-.md.indigo.G600{outline-color: #3949AB;}
-.md.indigo.G700{outline-color: #303F9F;}
-.md.indigo.G800{outline-color: #283593;}
-.md.indigo.G900{outline-color: #1A237E;}
-.md.indigo.A100{outline-color: #8C9EFF;}
-.md.indigo.A200{outline-color: #536DFE;}
-.md.indigo.A400{outline-color: #3D5AFE;}
-.md.indigo.A700{outline-color: #304FFE;}
+.md-out.indigo, .md-out.indigo.G500{outline-color: #3F51B5;}
+.md-out.indigo.G50{outline-color: #E8EAF6;}
+.md-out.indigo.G100{outline-color: #C5CAE9;}
+.md-out.indigo.G200{outline-color: #9FA8DA;}
+.md-out.indigo.G300{outline-color: #7986CB;}
+.md-out.indigo.G400{outline-color: #5C6BC0;}
+.md-out.indigo.G600{outline-color: #3949AB;}
+.md-out.indigo.G700{outline-color: #303F9F;}
+.md-out.indigo.G800{outline-color: #283593;}
+.md-out.indigo.G900{outline-color: #1A237E;}
+.md-out.indigo.A100{outline-color: #8C9EFF;}
+.md-out.indigo.A200{outline-color: #536DFE;}
+.md-out.indigo.A400{outline-color: #3D5AFE;}
+.md-out.indigo.A700{outline-color: #304FFE;}
 /*
  *
  *	Material Design Blue  
  *
  */
-.md.blue, .md.blue.G500{outline-color: #2196F3;}
-.md.blue.G50{outline-color: #E3F2FD;}
-.md.blue.G100{outline-color: #BBDEFB;}
-.md.blue.G200{outline-color: #90CAF9;}
-.md.blue.G300{outline-color: #64B5F6;}
-.md.blue.G400{outline-color: #42A5F5;}
-.md.blue.G600{outline-color: #1E88E5;}
-.md.blue.G700{outline-color: #1976D2;}
-.md.blue.G800{outline-color: #1565C0;}
-.md.blue.G900{outline-color: #0D47A1;}
-.md.blue.A100{outline-color: #82B1FF;}
-.md.blue.A200{outline-color: #448AFF;}
-.md.blue.A400{outline-color: #2979FF;}
-.md.blue.A700{outline-color: #2962FF;}
+.md-out.blue, .md-out.blue.G500{outline-color: #2196F3;}
+.md-out.blue.G50{outline-color: #E3F2FD;}
+.md-out.blue.G100{outline-color: #BBDEFB;}
+.md-out.blue.G200{outline-color: #90CAF9;}
+.md-out.blue.G300{outline-color: #64B5F6;}
+.md-out.blue.G400{outline-color: #42A5F5;}
+.md-out.blue.G600{outline-color: #1E88E5;}
+.md-out.blue.G700{outline-color: #1976D2;}
+.md-out.blue.G800{outline-color: #1565C0;}
+.md-out.blue.G900{outline-color: #0D47A1;}
+.md-out.blue.A100{outline-color: #82B1FF;}
+.md-out.blue.A200{outline-color: #448AFF;}
+.md-out.blue.A400{outline-color: #2979FF;}
+.md-out.blue.A700{outline-color: #2962FF;}
 /*
  *
  *	Material Design Light Blue  
  *
  */
-.md.light-blue, .md.light-blue.G500{outline-color: #03A9F4;}
-.md.light-blue.G50{outline-color: #E1F5FE;}
-.md.light-blue.G100{outline-color: #B3E5FC;}
-.md.light-blue.G200{outline-color: #81D4FA;}
-.md.light-blue.G300{outline-color: #4FC3F7;}
-.md.light-blue.G400{outline-color: #29B6F6;}
-.md.light-blue.G600{outline-color: #039BE5;}
-.md.light-blue.G700{outline-color: #0288D1;}
-.md.light-blue.G800{outline-color: #0277BD;}
-.md.light-blue.G900{outline-color: #01579B;}
-.md.light-blue.A100{outline-color: #80D8FF;}
-.md.light-blue.A200{outline-color: #40C4FF;}
-.md.light-blue.A400{outline-color: #00B0FF;}
-.md.light-blue.A700{outline-color: #0091EA;}
+.md-out.light-blue, .md-out.light-blue.G500{outline-color: #03A9F4;}
+.md-out.light-blue.G50{outline-color: #E1F5FE;}
+.md-out.light-blue.G100{outline-color: #B3E5FC;}
+.md-out.light-blue.G200{outline-color: #81D4FA;}
+.md-out.light-blue.G300{outline-color: #4FC3F7;}
+.md-out.light-blue.G400{outline-color: #29B6F6;}
+.md-out.light-blue.G600{outline-color: #039BE5;}
+.md-out.light-blue.G700{outline-color: #0288D1;}
+.md-out.light-blue.G800{outline-color: #0277BD;}
+.md-out.light-blue.G900{outline-color: #01579B;}
+.md-out.light-blue.A100{outline-color: #80D8FF;}
+.md-out.light-blue.A200{outline-color: #40C4FF;}
+.md-out.light-blue.A400{outline-color: #00B0FF;}
+.md-out.light-blue.A700{outline-color: #0091EA;}
 /*
  *
  *	Material Design Cyan  
  *
  */
-.md.cyan, .md.cyan.G500{outline-color: #00BCD4;}
-.md.cyan.G50{outline-color: #E0F7FA;}
-.md.cyan.G100{outline-color: #B2EBF2;}
-.md.cyan.G200{outline-color: #80DEEA;}
-.md.cyan.G300{outline-color: #4DD0E1;}
-.md.cyan.G400{outline-color: #26C6DA;}
-.md.cyan.G600{outline-color: #00ACC1;}
-.md.cyan.G700{outline-color: #0097A7;}
-.md.cyan.G800{outline-color: #00838F;}
-.md.cyan.G900{outline-color: #006064;}
-.md.cyan.A100{outline-color: #84FFFF;}
-.md.cyan.A200{outline-color: #18FFFF;}
-.md.cyan.A400{outline-color: #00E5FF;}
-.md.cyan.A700{outline-color: #00B8D4;}
+.md-out.cyan, .md-out.cyan.G500{outline-color: #00BCD4;}
+.md-out.cyan.G50{outline-color: #E0F7FA;}
+.md-out.cyan.G100{outline-color: #B2EBF2;}
+.md-out.cyan.G200{outline-color: #80DEEA;}
+.md-out.cyan.G300{outline-color: #4DD0E1;}
+.md-out.cyan.G400{outline-color: #26C6DA;}
+.md-out.cyan.G600{outline-color: #00ACC1;}
+.md-out.cyan.G700{outline-color: #0097A7;}
+.md-out.cyan.G800{outline-color: #00838F;}
+.md-out.cyan.G900{outline-color: #006064;}
+.md-out.cyan.A100{outline-color: #84FFFF;}
+.md-out.cyan.A200{outline-color: #18FFFF;}
+.md-out.cyan.A400{outline-color: #00E5FF;}
+.md-out.cyan.A700{outline-color: #00B8D4;}
 /*
  *
  *	Material Design Teal  
  *
  */
-.md.teal, .md.teal.G500{outline-color: #009688;}
-.md.teal.G50{outline-color: #E0F2F1;}
-.md.teal.G100{outline-color: #B2DFDB;}
-.md.teal.G200{outline-color: #80CBC4;}
-.md.teal.G300{outline-color: #4DB6AC;}
-.md.teal.G400{outline-color: #26A69A;}
-.md.teal.G600{outline-color: #00897B;}
-.md.teal.G700{outline-color: #00796B;}
-.md.teal.G800{outline-color: #00695C;}
-.md.teal.G900{outline-color: #004D40;}
-.md.teal.A100{outline-color: #A7FFEB;}
-.md.teal.A200{outline-color: #64FFDA;}
-.md.teal.A400{outline-color: #1DE9B6;}
-.md.teal.A700{outline-color: #00BFA5;}
+.md-out.teal, .md-out.teal.G500{outline-color: #009688;}
+.md-out.teal.G50{outline-color: #E0F2F1;}
+.md-out.teal.G100{outline-color: #B2DFDB;}
+.md-out.teal.G200{outline-color: #80CBC4;}
+.md-out.teal.G300{outline-color: #4DB6AC;}
+.md-out.teal.G400{outline-color: #26A69A;}
+.md-out.teal.G600{outline-color: #00897B;}
+.md-out.teal.G700{outline-color: #00796B;}
+.md-out.teal.G800{outline-color: #00695C;}
+.md-out.teal.G900{outline-color: #004D40;}
+.md-out.teal.A100{outline-color: #A7FFEB;}
+.md-out.teal.A200{outline-color: #64FFDA;}
+.md-out.teal.A400{outline-color: #1DE9B6;}
+.md-out.teal.A700{outline-color: #00BFA5;}
 /*
  *
  *	Material Design Green  
  *
  */
-.md.green, .md.green.G500{outline-color: #4CAF50;}
-.md.green.G50{outline-color: #E8F5E9;}
-.md.green.G100{outline-color: #C8E6C9;}
-.md.green.G200{outline-color: #A5D6A7;}
-.md.green.G300{outline-color: #81C784;}
-.md.green.G400{outline-color: #66BB6A;}
-.md.green.G600{outline-color: #43A047;}
-.md.green.G700{outline-color: #388E3C;}
-.md.green.G800{outline-color: #2E7D32;}
-.md.green.G900{outline-color: #1B5E20;}
-.md.green.A100{outline-color: #B9F6CA;}
-.md.green.A200{outline-color: #69F0AE;}
-.md.green.A400{outline-color: #00E676;}
-.md.green.A700{outline-color: #00C853;}
+.md-out.green, .md-out.green.G500{outline-color: #4CAF50;}
+.md-out.green.G50{outline-color: #E8F5E9;}
+.md-out.green.G100{outline-color: #C8E6C9;}
+.md-out.green.G200{outline-color: #A5D6A7;}
+.md-out.green.G300{outline-color: #81C784;}
+.md-out.green.G400{outline-color: #66BB6A;}
+.md-out.green.G600{outline-color: #43A047;}
+.md-out.green.G700{outline-color: #388E3C;}
+.md-out.green.G800{outline-color: #2E7D32;}
+.md-out.green.G900{outline-color: #1B5E20;}
+.md-out.green.A100{outline-color: #B9F6CA;}
+.md-out.green.A200{outline-color: #69F0AE;}
+.md-out.green.A400{outline-color: #00E676;}
+.md-out.green.A700{outline-color: #00C853;}
 /*
  *
  *	Material Design Light Green  
  *
  */
-.md.light-green, .md.light-green.G500{outline-color: #8BC34A;}
-.md.light-green.G50{outline-color: #F1F8E9;}
-.md.light-green.G100{outline-color: #DCEDC8;}
-.md.light-green.G200{outline-color: #C5E1A5;}
-.md.light-green.G300{outline-color: #AED581;}
-.md.light-green.G400{outline-color: #9CCC65;}
-.md.light-green.G600{outline-color: #7CB342;}
-.md.light-green.G700{outline-color: #689F38;}
-.md.light-green.G800{outline-color: #558B2F;}
-.md.light-green.G900{outline-color: #33691E;}
-.md.light-green.A100{outline-color: #CCFF90;}
-.md.light-green.A200{outline-color: #B2FF59;}
-.md.light-green.A400{outline-color: #76FF03;}
-.md.light-green.A700{outline-color: #64DD17;}
+.md-out.light-green, .md-out.light-green.G500{outline-color: #8BC34A;}
+.md-out.light-green.G50{outline-color: #F1F8E9;}
+.md-out.light-green.G100{outline-color: #DCEDC8;}
+.md-out.light-green.G200{outline-color: #C5E1A5;}
+.md-out.light-green.G300{outline-color: #AED581;}
+.md-out.light-green.G400{outline-color: #9CCC65;}
+.md-out.light-green.G600{outline-color: #7CB342;}
+.md-out.light-green.G700{outline-color: #689F38;}
+.md-out.light-green.G800{outline-color: #558B2F;}
+.md-out.light-green.G900{outline-color: #33691E;}
+.md-out.light-green.A100{outline-color: #CCFF90;}
+.md-out.light-green.A200{outline-color: #B2FF59;}
+.md-out.light-green.A400{outline-color: #76FF03;}
+.md-out.light-green.A700{outline-color: #64DD17;}
 /*
  *
  *	Material Design Lime
  *
  */
-.md.lime, .md.lime.G500{outline-color: #CDDC39;}
-.md.lime.G50{outline-color: #F9FBE7;}
-.md.lime.G100{outline-color: #F0F4C3;}
-.md.lime.G200{outline-color: #E6EE9C;}
-.md.lime.G300{outline-color: #DCE775;}
-.md.lime.G400{outline-color: #D4E157;}
-.md.lime.G600{outline-color: #C0CA33;}
-.md.lime.G700{outline-color: #AFB42B;}
-.md.lime.G800{outline-color: #9E9D24;}
-.md.lime.G900{outline-color: #827717;}
-.md.lime.A100{outline-color: #F4FF81;}
-.md.lime.A200{outline-color: #EEFF41;}
-.md.lime.A400{outline-color: #C6FF00;}
-.md.lime.A700{outline-color: #AEEA00;}
+.md-out.lime, .md-out.lime.G500{outline-color: #CDDC39;}
+.md-out.lime.G50{outline-color: #F9FBE7;}
+.md-out.lime.G100{outline-color: #F0F4C3;}
+.md-out.lime.G200{outline-color: #E6EE9C;}
+.md-out.lime.G300{outline-color: #DCE775;}
+.md-out.lime.G400{outline-color: #D4E157;}
+.md-out.lime.G600{outline-color: #C0CA33;}
+.md-out.lime.G700{outline-color: #AFB42B;}
+.md-out.lime.G800{outline-color: #9E9D24;}
+.md-out.lime.G900{outline-color: #827717;}
+.md-out.lime.A100{outline-color: #F4FF81;}
+.md-out.lime.A200{outline-color: #EEFF41;}
+.md-out.lime.A400{outline-color: #C6FF00;}
+.md-out.lime.A700{outline-color: #AEEA00;}
 /*
  *
  *	Material Design Yellow
  *
  */
-.md.yellow, .md.yellow.G500{outline-color: #FFEB3B;}
-.md.yellow.G50{outline-color: #FFFDE7;}
-.md.yellow.G100{outline-color: #FFF9C4;}
-.md.yellow.G200{outline-color: #FFF59D;}
-.md.yellow.G300{outline-color: #FFF176;}
-.md.yellow.G400{outline-color: #FFEE58;}
-.md.yellow.G600{outline-color: #FDD835;}
-.md.yellow.G700{outline-color: #FBC02D;}
-.md.yellow.G800{outline-color: #F9A825;}
-.md.yellow.G900{outline-color: #F57F17;}
-.md.yellow.A100{outline-color: #FFFF8D;}
-.md.yellow.A200{outline-color: #FFFF00;}
-.md.yellow.A400{outline-color: #FFEA00;}
-.md.yellow.A700{outline-color: #FFD600;}
+.md-out.yellow, .md-out.yellow.G500{outline-color: #FFEB3B;}
+.md-out.yellow.G50{outline-color: #FFFDE7;}
+.md-out.yellow.G100{outline-color: #FFF9C4;}
+.md-out.yellow.G200{outline-color: #FFF59D;}
+.md-out.yellow.G300{outline-color: #FFF176;}
+.md-out.yellow.G400{outline-color: #FFEE58;}
+.md-out.yellow.G600{outline-color: #FDD835;}
+.md-out.yellow.G700{outline-color: #FBC02D;}
+.md-out.yellow.G800{outline-color: #F9A825;}
+.md-out.yellow.G900{outline-color: #F57F17;}
+.md-out.yellow.A100{outline-color: #FFFF8D;}
+.md-out.yellow.A200{outline-color: #FFFF00;}
+.md-out.yellow.A400{outline-color: #FFEA00;}
+.md-out.yellow.A700{outline-color: #FFD600;}
 /*
  *
  *	Material Design Amber
  *
  */
-.md.amber, .md.amber.G500{outline-color: #FFC107;}
-.md.amber.G50{outline-color: #FFF8E1;}
-.md.amber.G100{outline-color: #FFECB3;}
-.md.amber.G200{outline-color: #FFE082;}
-.md.amber.G300{outline-color: #FFD54F;}
-.md.amber.G400{outline-color: #FFCA28;}
-.md.amber.G600{outline-color: #FFB300;}
-.md.amber.G700{outline-color: #FFA000;}
-.md.amber.G800{outline-color: #FF8F00;}
-.md.amber.G900{outline-color: #FF6F00;}
-.md.amber.A100{outline-color: #FFE57F;}
-.md.amber.A200{outline-color: #FFD740;}
-.md.amber.A400{outline-color: #FFC400;}
-.md.amber.A700{outline-color: #FFAB00;}
+.md-out.amber, .md-out.amber.G500{outline-color: #FFC107;}
+.md-out.amber.G50{outline-color: #FFF8E1;}
+.md-out.amber.G100{outline-color: #FFECB3;}
+.md-out.amber.G200{outline-color: #FFE082;}
+.md-out.amber.G300{outline-color: #FFD54F;}
+.md-out.amber.G400{outline-color: #FFCA28;}
+.md-out.amber.G600{outline-color: #FFB300;}
+.md-out.amber.G700{outline-color: #FFA000;}
+.md-out.amber.G800{outline-color: #FF8F00;}
+.md-out.amber.G900{outline-color: #FF6F00;}
+.md-out.amber.A100{outline-color: #FFE57F;}
+.md-out.amber.A200{outline-color: #FFD740;}
+.md-out.amber.A400{outline-color: #FFC400;}
+.md-out.amber.A700{outline-color: #FFAB00;}
 /*
  *
  *	Material Design Orange
  *
  */
-.md.orange, .md.orange.G500{outline-color: #FF9800;}
-.md.orange.G50{outline-color: #FFF3E0;}
-.md.orange.G100{outline-color: #FFE0B2;}
-.md.orange.G200{outline-color: #FFCC80;}
-.md.orange.G300{outline-color: #FFB74D;}
-.md.orange.G400{outline-color: #FFA726;}
-.md.orange.G600{outline-color: #FB8C00;}
-.md.orange.G700{outline-color: #F57C00;}
-.md.orange.G800{outline-color: #EF6C00;}
-.md.orange.G900{outline-color: #E65100;}
-.md.orange.A100{outline-color: #FFD180;}
-.md.orange.A200{outline-color: #FFAB40;}
-.md.orange.A400{outline-color: #FF9100;}
-.md.orange.A700{outline-color: #FF6D00;}
+.md-out.orange, .md-out.orange.G500{outline-color: #FF9800;}
+.md-out.orange.G50{outline-color: #FFF3E0;}
+.md-out.orange.G100{outline-color: #FFE0B2;}
+.md-out.orange.G200{outline-color: #FFCC80;}
+.md-out.orange.G300{outline-color: #FFB74D;}
+.md-out.orange.G400{outline-color: #FFA726;}
+.md-out.orange.G600{outline-color: #FB8C00;}
+.md-out.orange.G700{outline-color: #F57C00;}
+.md-out.orange.G800{outline-color: #EF6C00;}
+.md-out.orange.G900{outline-color: #E65100;}
+.md-out.orange.A100{outline-color: #FFD180;}
+.md-out.orange.A200{outline-color: #FFAB40;}
+.md-out.orange.A400{outline-color: #FF9100;}
+.md-out.orange.A700{outline-color: #FF6D00;}
 /*
  *
  *	Material Design Deep Orange
  *
  */
-.md.deep-orange, .md.deep-orange.G500{outline-color: #FF5722;}
-.md.deep-orange.G50{outline-color: #FBE9E7;}
-.md.deep-orange.G100{outline-color: #FFCCBC;}
-.md.deep-orange.G200{outline-color: #FFAB91;}
-.md.deep-orange.G300{outline-color: #FF8A65;}
-.md.deep-orange.G400{outline-color: #FF7043;}
-.md.deep-orange.G600{outline-color: #F4511E;}
-.md.deep-orange.G700{outline-color: #E64A19;}
-.md.deep-orange.G800{outline-color: #D84315;}
-.md.deep-orange.G900{outline-color: #BF360C;}
-.md.deep-orange.A100{outline-color: #FF9E80;}
-.md.deep-orange.A200{outline-color: #FF6E40;}
-.md.deep-orange.A400{outline-color: #FF3D00;}
-.md.deep-orange.A700{outline-color: #DD2C00;}
+.md-out.deep-orange, .md-out.deep-orange.G500{outline-color: #FF5722;}
+.md-out.deep-orange.G50{outline-color: #FBE9E7;}
+.md-out.deep-orange.G100{outline-color: #FFCCBC;}
+.md-out.deep-orange.G200{outline-color: #FFAB91;}
+.md-out.deep-orange.G300{outline-color: #FF8A65;}
+.md-out.deep-orange.G400{outline-color: #FF7043;}
+.md-out.deep-orange.G600{outline-color: #F4511E;}
+.md-out.deep-orange.G700{outline-color: #E64A19;}
+.md-out.deep-orange.G800{outline-color: #D84315;}
+.md-out.deep-orange.G900{outline-color: #BF360C;}
+.md-out.deep-orange.A100{outline-color: #FF9E80;}
+.md-out.deep-orange.A200{outline-color: #FF6E40;}
+.md-out.deep-orange.A400{outline-color: #FF3D00;}
+.md-out.deep-orange.A700{outline-color: #DD2C00;}
 /*
  *
  *	Material Design Brown
  *
  */
-.md.brown, .md.brown.G500{outline-color: #795548;}
-.md.brown.G50{outline-color: #EFEBE9;}
-.md.brown.G100{outline-color: #D7CCC8;}
-.md.brown.G200{outline-color: #BCAAA4;}
-.md.brown.G300{outline-color: #A1887F;}
-.md.brown.G400{outline-color: #8D6E63;}
-.md.brown.G600{outline-color: #6D4C41;}
-.md.brown.G700{outline-color: #5D4037;}
-.md.brown.G800{outline-color: #4E342E;}
-.md.brown.G900{outline-color: #3E2723;}
+.md-out.brown, .md-out.brown.G500{outline-color: #795548;}
+.md-out.brown.G50{outline-color: #EFEBE9;}
+.md-out.brown.G100{outline-color: #D7CCC8;}
+.md-out.brown.G200{outline-color: #BCAAA4;}
+.md-out.brown.G300{outline-color: #A1887F;}
+.md-out.brown.G400{outline-color: #8D6E63;}
+.md-out.brown.G600{outline-color: #6D4C41;}
+.md-out.brown.G700{outline-color: #5D4037;}
+.md-out.brown.G800{outline-color: #4E342E;}
+.md-out.brown.G900{outline-color: #3E2723;}
 /*
  *
  *	Material Design Gray
  *
  */
-.md.gray, .md.gray.G500{outline-color: #9E9E9E;}
-.md.gray.G50{outline-color: #FAFAFA;}
-.md.gray.G100{outline-color: #F5F5F5;}
-.md.gray.G200{outline-color: #EEEEEE;}
-.md.gray.G300{outline-color: #E0E0E0;}
-.md.gray.G400{outline-color: #BDBDBD;}
-.md.gray.G600{outline-color: #757575;}
-.md.gray.G700{outline-color: #616161;}
-.md.gray.G800{outline-color: #424242;}
-.md.gray.G900{outline-color: #212121;}
+.md-out.gray, .md-out.gray.G500{outline-color: #9E9E9E;}
+.md-out.gray.G50{outline-color: #FAFAFA;}
+.md-out.gray.G100{outline-color: #F5F5F5;}
+.md-out.gray.G200{outline-color: #EEEEEE;}
+.md-out.gray.G300{outline-color: #E0E0E0;}
+.md-out.gray.G400{outline-color: #BDBDBD;}
+.md-out.gray.G600{outline-color: #757575;}
+.md-out.gray.G700{outline-color: #616161;}
+.md-out.gray.G800{outline-color: #424242;}
+.md-out.gray.G900{outline-color: #212121;}
 /*
  *
  *	Material Design Blue Gray
  *
  */
-.md.blue-gray, .md.blue-gray.G500{outline-color: #607D8B;}
-.md.blue-gray.G50{outline-color: #ECEFF1;}
-.md.blue-gray.G100{outline-color: #CFD8DC;}
-.md.blue-gray.G200{outline-color: #B0BEC5;}
-.md.blue-gray.G300{outline-color: #90A4AE;}
-.md.blue-gray.G400{outline-color: #78909C;}
-.md.blue-gray.G600{outline-color: #546E7A;}
-.md.blue-gray.G700{outline-color: #455A64;}
-.md.blue-gray.G800{outline-color: #37474F;}
-.md.blue-gray.G900{outline-color: #263238;}
+.md-out.blue-gray, .md-out.blue-gray.G500{outline-color: #607D8B;}
+.md-out.blue-gray.G50{outline-color: #ECEFF1;}
+.md-out.blue-gray.G100{outline-color: #CFD8DC;}
+.md-out.blue-gray.G200{outline-color: #B0BEC5;}
+.md-out.blue-gray.G300{outline-color: #90A4AE;}
+.md-out.blue-gray.G400{outline-color: #78909C;}
+.md-out.blue-gray.G600{outline-color: #546E7A;}
+.md-out.blue-gray.G700{outline-color: #455A64;}
+.md-out.blue-gray.G800{outline-color: #37474F;}
+.md-out.blue-gray.G900{outline-color: #263238;}
 
-.md.white{outline-color: #FFFFFF;}
-.md.black{outline-color: #000000;}
+.md-out.white{outline-color: #FFFFFF;}
+.md-out.black{outline-color: #000000;}
