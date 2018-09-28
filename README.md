@@ -40,4 +40,4 @@ I have some neat background.
 ```
 
 Demos:
-[https://codepen.io/lxsmnsyc/pen/YJzOZb](Codepen)
+[Codepen](https://codepen.io/lxsmnsyc/pen/YJzOZb)
