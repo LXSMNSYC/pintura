@@ -3,16 +3,16 @@
  *	Material Design Red
  *
  */
-.md.red, .md.red.500{color: #F44336;}
-.md.red.50{color: #FFEBEE;}
-.md.red.100{color: #FFCDD2;}
-.md.red.200{color: #EF9A9A;}
-.md.red.300{color: #E57373;}
-.md.red.400{color: #EF5350;}
-.md.red.600{color: #E53935;}
-.md.red.700{color: #D32F2F;}
-.md.red.800{color: #C62828;}
-.md.red.900{color: #B71C1C;}
+.md.red, .md.red.G500{color: #F44336;}
+.md.red.G50{color: #FFEBEE;}
+.md.red.G100{color: #FFCDD2;}
+.md.red.G200{color: #EF9A9A;}
+.md.red.G300{color: #E57373;}
+.md.red.G400{color: #EF5350;}
+.md.red.G600{color: #E53935;}
+.md.red.G700{color: #D32F2F;}
+.md.red.G800{color: #C62828;}
+.md.red.G900{color: #B71C1C;}
 .md.red.A100{color: #FF8A80;}
 .md.red.A200{color: #FF5252;}
 .md.red.A400{color: #FF1744;}
@@ -22,16 +22,16 @@
  *	Material Design Pink
  *
  */
-.md.pink, .md.pink.500{color: #E91E63;}
-.md.pink.50{color: #FCE4EC;}
-.md.pink.100{color: #F8BBD0;}
-.md.pink.200{color: #F48FB1;}
-.md.pink.300{color: #F06292;}
-.md.pink.400{color: #EC407A;}
-.md.pink.600{color: #D81B60;}
-.md.pink.700{color: #C2185B;}
-.md.pink.800{color: #AD1457;}
-.md.pink.900{color: #880E4F;}
+.md.pink, .md.pink.G500{color: #E91E63;}
+.md.pink.G50{color: #FCE4EC;}
+.md.pink.G100{color: #F8BBD0;}
+.md.pink.G200{color: #F48FB1;}
+.md.pink.G300{color: #F06292;}
+.md.pink.G400{color: #EC407A;}
+.md.pink.G600{color: #D81B60;}
+.md.pink.G700{color: #C2185B;}
+.md.pink.G800{color: #AD1457;}
+.md.pink.G900{color: #880E4F;}
 .md.pink.A100{color: #FF80AB;}
 .md.pink.A200{color: #FF4081;}
 .md.pink.A400{color: #F50057;}
@@ -41,16 +41,16 @@
  *	Material Design Purple
  *
  */
-.md.purple, .md.purple.500{color: #9C27B0;}
-.md.purple.50{color: #F3E5F5;}
-.md.purple.100{color: #E1BEE7;}
-.md.purple.200{color: #CE93D8;}
-.md.purple.300{color: #BA68C8;}
-.md.purple.400{color: #AB47BC;}
-.md.purple.600{color: #8E24AA;}
-.md.purple.700{color: #7B1FA2;}
-.md.purple.800{color: #6A1B9A;}
-.md.purple.900{color: #4A148C;}
+.md.purple, .md.purple.G500{color: #9C27B0;}
+.md.purple.G50{color: #F3E5F5;}
+.md.purple.G100{color: #E1BEE7;}
+.md.purple.G200{color: #CE93D8;}
+.md.purple.G300{color: #BA68C8;}
+.md.purple.G400{color: #AB47BC;}
+.md.purple.G600{color: #8E24AA;}
+.md.purple.G700{color: #7B1FA2;}
+.md.purple.G800{color: #6A1B9A;}
+.md.purple.G900{color: #4A148C;}
 .md.purple.A100{color: #EA80FC;}
 .md.purple.A200{color: #E040FB;}
 .md.purple.A400{color: #D500F9;}
@@ -60,16 +60,16 @@
  *	Material Design Deep Purple
  *
  */
-.md.deep-purple, .md.deep-purple.500{color: #673AB7;}
-.md.deep-purple.50{color: #EDE7F6;}
-.md.deep-purple.100{color: #D1C4E9;}
-.md.deep-purple.200{color: #B39DDB;}
-.md.deep-purple.300{color: #9575CD;}
-.md.deep-purple.400{color: #7E57C2;}
-.md.deep-purple.600{color: #5E35B1;}
-.md.deep-purple.700{color: #512DA8;}
-.md.deep-purple.800{color: #4527A0;}
-.md.deep-purple.900{color: #311B92;}
+.md.deep-purple, .md.deep-purple.G500{color: #673AB7;}
+.md.deep-purple.G50{color: #EDE7F6;}
+.md.deep-purple.G100{color: #D1C4E9;}
+.md.deep-purple.G200{color: #B39DDB;}
+.md.deep-purple.G300{color: #9575CD;}
+.md.deep-purple.G400{color: #7E57C2;}
+.md.deep-purple.G600{color: #5E35B1;}
+.md.deep-purple.G700{color: #512DA8;}
+.md.deep-purple.G800{color: #4527A0;}
+.md.deep-purple.G900{color: #311B92;}
 .md.deep-purple.A100{color: #B388FF;}
 .md.deep-purple.A200{color: #7C4DFF;}
 .md.deep-purple.A400{color: #651FFF;}
@@ -79,16 +79,16 @@
  *	Material Design Deep Indigo 
  *
  */
-.md.indigo, .md.indigo.500{color: #3F51B5;}
-.md.indigo.50{color: #E8EAF6;}
-.md.indigo.100{color: #C5CAE9;}
-.md.indigo.200{color: #9FA8DA;}
-.md.indigo.300{color: #7986CB;}
-.md.indigo.400{color: #5C6BC0;}
-.md.indigo.600{color: #3949AB;}
-.md.indigo.700{color: #303F9F;}
-.md.indigo.800{color: #283593;}
-.md.indigo.900{color: #1A237E;}
+.md.indigo, .md.indigo.G500{color: #3F51B5;}
+.md.indigo.G50{color: #E8EAF6;}
+.md.indigo.G100{color: #C5CAE9;}
+.md.indigo.G200{color: #9FA8DA;}
+.md.indigo.G300{color: #7986CB;}
+.md.indigo.G400{color: #5C6BC0;}
+.md.indigo.G600{color: #3949AB;}
+.md.indigo.G700{color: #303F9F;}
+.md.indigo.G800{color: #283593;}
+.md.indigo.G900{color: #1A237E;}
 .md.indigo.A100{color: #8C9EFF;}
 .md.indigo.A200{color: #536DFE;}
 .md.indigo.A400{color: #3D5AFE;}
@@ -98,35 +98,35 @@
  *	Material Design Blue  
  *
  */
-.md.light-blue, .md.light-blue.500{color: #2196F3;}
-.md.light-blue.50{color: #E3F2FD;}
-.md.light-blue.100{color: #BBDEFB;}
-.md.light-blue.200{color: #90CAF9;}
-.md.light-blue.300{color: #64B5F6;}
-.md.light-blue.400{color: #42A5F5;}
-.md.light-blue.600{color: #1E88E5;}
-.md.light-blue.700{color: #1976D2;}
-.md.light-blue.800{color: #1565C0;}
-.md.light-blue.900{color: #0D47A1;}
-.md.light-blue.A100{color: #82B1FF;}
-.md.light-blue.A200{color: #448AFF;}
-.md.light-blue.A400{color: #2979FF;}
-.md.light-blue.A700{color: #2962FF;}
+.md.blue, .md.blue.G500{color: #2196F3;}
+.md.blue.G50{color: #E3F2FD;}
+.md.blue.G100{color: #BBDEFB;}
+.md.blue.G200{color: #90CAF9;}
+.md.blue.G300{color: #64B5F6;}
+.md.blue.G400{color: #42A5F5;}
+.md.blue.G600{color: #1E88E5;}
+.md.blue.G700{color: #1976D2;}
+.md.blue.G800{color: #1565C0;}
+.md.blue.G900{color: #0D47A1;}
+.md.blue.A100{color: #82B1FF;}
+.md.blue.A200{color: #448AFF;}
+.md.blue.A400{color: #2979FF;}
+.md.blue.A700{color: #2962FF;}
 /*
  *
  *	Material Design Light Blue  
  *
  */
-.md.light-blue, .md.light-blue.500{color: #03A9F4;}
-.md.light-blue.50{color: #E1F5FE;}
-.md.light-blue.100{color: #B3E5FC;}
-.md.light-blue.200{color: #81D4FA;}
-.md.light-blue.300{color: #4FC3F7;}
-.md.light-blue.400{color: #29B6F6;}
-.md.light-blue.600{color: #039BE5;}
-.md.light-blue.700{color: #0288D1;}
-.md.light-blue.800{color: #0277BD;}
-.md.light-blue.900{color: #01579B;}
+.md.light-blue, .md.light-blue.G500{color: #03A9F4;}
+.md.light-blue.G50{color: #E1F5FE;}
+.md.light-blue.G100{color: #B3E5FC;}
+.md.light-blue.G200{color: #81D4FA;}
+.md.light-blue.G300{color: #4FC3F7;}
+.md.light-blue.G400{color: #29B6F6;}
+.md.light-blue.G600{color: #039BE5;}
+.md.light-blue.G700{color: #0288D1;}
+.md.light-blue.G800{color: #0277BD;}
+.md.light-blue.G900{color: #01579B;}
 .md.light-blue.A100{color: #80D8FF;}
 .md.light-blue.A200{color: #40C4FF;}
 .md.light-blue.A400{color: #00B0FF;}
@@ -136,16 +136,16 @@
  *	Material Design Cyan  
  *
  */
-.md.cyan, .md.cyan.500{color: #00BCD4;}
-.md.cyan.50{color: #E0F7FA;}
-.md.cyan.100{color: #B2EBF2;}
-.md.cyan.200{color: #80DEEA;}
-.md.cyan.300{color: #4DD0E1;}
-.md.cyan.400{color: #26C6DA;}
-.md.cyan.600{color: #00ACC1;}
-.md.cyan.700{color: #0097A7;}
-.md.cyan.800{color: #00838F;}
-.md.cyan.900{color: #006064;}
+.md.cyan, .md.cyan.G500{color: #00BCD4;}
+.md.cyan.G50{color: #E0F7FA;}
+.md.cyan.G100{color: #B2EBF2;}
+.md.cyan.G200{color: #80DEEA;}
+.md.cyan.G300{color: #4DD0E1;}
+.md.cyan.G400{color: #26C6DA;}
+.md.cyan.G600{color: #00ACC1;}
+.md.cyan.G700{color: #0097A7;}
+.md.cyan.G800{color: #00838F;}
+.md.cyan.G900{color: #006064;}
 .md.cyan.A100{color: #84FFFF;}
 .md.cyan.A200{color: #18FFFF;}
 .md.cyan.A400{color: #00E5FF;}
@@ -155,16 +155,16 @@
  *	Material Design Teal  
  *
  */
-.md.teal, .md.teal.500{color: #009688;}
-.md.teal.50{color: #E0F2F1;}
-.md.teal.100{color: #B2DFDB;}
-.md.teal.200{color: #80CBC4;}
-.md.teal.300{color: #4DB6AC;}
-.md.teal.400{color: #26A69A;}
-.md.teal.600{color: #00897B;}
-.md.teal.700{color: #00796B;}
-.md.teal.800{color: #00695C;}
-.md.teal.900{color: #004D40;}
+.md.teal, .md.teal.G500{color: #009688;}
+.md.teal.G50{color: #E0F2F1;}
+.md.teal.G100{color: #B2DFDB;}
+.md.teal.G200{color: #80CBC4;}
+.md.teal.G300{color: #4DB6AC;}
+.md.teal.G400{color: #26A69A;}
+.md.teal.G600{color: #00897B;}
+.md.teal.G700{color: #00796B;}
+.md.teal.G800{color: #00695C;}
+.md.teal.G900{color: #004D40;}
 .md.teal.A100{color: #A7FFEB;}
 .md.teal.A200{color: #64FFDA;}
 .md.teal.A400{color: #1DE9B6;}
@@ -174,16 +174,16 @@
  *	Material Design Green  
  *
  */
-.md.green, .md.green.500{color: #4CAF50;}
-.md.green.50{color: #E8F5E9;}
-.md.green.100{color: #C8E6C9;}
-.md.green.200{color: #A5D6A7;}
-.md.green.300{color: #81C784;}
-.md.green.400{color: #66BB6A;}
-.md.green.600{color: #43A047;}
-.md.green.700{color: #388E3C;}
-.md.green.800{color: #2E7D32;}
-.md.green.900{color: #1B5E20;}
+.md.green, .md.green.G500{color: #4CAF50;}
+.md.green.G50{color: #E8F5E9;}
+.md.green.G100{color: #C8E6C9;}
+.md.green.G200{color: #A5D6A7;}
+.md.green.G300{color: #81C784;}
+.md.green.G400{color: #66BB6A;}
+.md.green.G600{color: #43A047;}
+.md.green.G700{color: #388E3C;}
+.md.green.G800{color: #2E7D32;}
+.md.green.G900{color: #1B5E20;}
 .md.green.A100{color: #B9F6CA;}
 .md.green.A200{color: #69F0AE;}
 .md.green.A400{color: #00E676;}
@@ -193,16 +193,16 @@
  *	Material Design Light Green  
  *
  */
-.md.light-green, .md.light-green.500{color: #8BC34A;}
-.md.light-green.50{color: #F1F8E9;}
-.md.light-green.100{color: #DCEDC8;}
-.md.light-green.200{color: #C5E1A5;}
-.md.light-green.300{color: #AED581;}
-.md.light-green.400{color: #9CCC65;}
-.md.light-green.600{color: #7CB342;}
-.md.light-green.700{color: #689F38;}
-.md.light-green.800{color: #558B2F;}
-.md.light-green.900{color: #33691E;}
+.md.light-green, .md.light-green.G500{color: #8BC34A;}
+.md.light-green.G50{color: #F1F8E9;}
+.md.light-green.G100{color: #DCEDC8;}
+.md.light-green.G200{color: #C5E1A5;}
+.md.light-green.G300{color: #AED581;}
+.md.light-green.G400{color: #9CCC65;}
+.md.light-green.G600{color: #7CB342;}
+.md.light-green.G700{color: #689F38;}
+.md.light-green.G800{color: #558B2F;}
+.md.light-green.G900{color: #33691E;}
 .md.light-green.A100{color: #CCFF90;}
 .md.light-green.A200{color: #B2FF59;}
 .md.light-green.A400{color: #76FF03;}
@@ -212,16 +212,16 @@
  *	Material Design Lime
  *
  */
-.md.lime, .md.lime.500{color: #CDDC39;}
-.md.lime.50{color: #F9FBE7;}
-.md.lime.100{color: #F0F4C3;}
-.md.lime.200{color: #E6EE9C;}
-.md.lime.300{color: #DCE775;}
-.md.lime.400{color: #D4E157;}
-.md.lime.600{color: #C0CA33;}
-.md.lime.700{color: #AFB42B;}
-.md.lime.800{color: #9E9D24;}
-.md.lime.900{color: #827717;}
+.md.lime, .md.lime.G500{color: #CDDC39;}
+.md.lime.G50{color: #F9FBE7;}
+.md.lime.G100{color: #F0F4C3;}
+.md.lime.G200{color: #E6EE9C;}
+.md.lime.G300{color: #DCE775;}
+.md.lime.G400{color: #D4E157;}
+.md.lime.G600{color: #C0CA33;}
+.md.lime.G700{color: #AFB42B;}
+.md.lime.G800{color: #9E9D24;}
+.md.lime.G900{color: #827717;}
 .md.lime.A100{color: #F4FF81;}
 .md.lime.A200{color: #EEFF41;}
 .md.lime.A400{color: #C6FF00;}
@@ -231,16 +231,16 @@
  *	Material Design Yellow
  *
  */
-.md.yellow, .md.yellow.500{color: #FFEB3B;}
-.md.yellow.50{color: #FFFDE7;}
-.md.yellow.100{color: #FFF9C4;}
-.md.yellow.200{color: #FFF59D;}
-.md.yellow.300{color: #FFF176;}
-.md.yellow.400{color: #FFEE58;}
-.md.yellow.600{color: #FDD835;}
-.md.yellow.700{color: #FBC02D;}
-.md.yellow.800{color: #F9A825;}
-.md.yellow.900{color: #F57F17;}
+.md.yellow, .md.yellow.G500{color: #FFEB3B;}
+.md.yellow.G50{color: #FFFDE7;}
+.md.yellow.G100{color: #FFF9C4;}
+.md.yellow.G200{color: #FFF59D;}
+.md.yellow.G300{color: #FFF176;}
+.md.yellow.G400{color: #FFEE58;}
+.md.yellow.G600{color: #FDD835;}
+.md.yellow.G700{color: #FBC02D;}
+.md.yellow.G800{color: #F9A825;}
+.md.yellow.G900{color: #F57F17;}
 .md.yellow.A100{color: #FFFF8D;}
 .md.yellow.A200{color: #FFFF00;}
 .md.yellow.A400{color: #FFEA00;}
@@ -250,16 +250,16 @@
  *	Material Design Amber
  *
  */
-.md.amber, .md.amber.500{color: #FFC107;}
-.md.amber.50{color: #FFF8E1;}
-.md.amber.100{color: #FFECB3;}
-.md.amber.200{color: #FFE082;}
-.md.amber.300{color: #FFD54F;}
-.md.amber.400{color: #FFCA28;}
-.md.amber.600{color: #FFB300;}
-.md.amber.700{color: #FFA000;}
-.md.amber.800{color: #FF8F00;}
-.md.amber.900{color: #FF6F00;}
+.md.amber, .md.amber.G500{color: #FFC107;}
+.md.amber.G50{color: #FFF8E1;}
+.md.amber.G100{color: #FFECB3;}
+.md.amber.G200{color: #FFE082;}
+.md.amber.G300{color: #FFD54F;}
+.md.amber.G400{color: #FFCA28;}
+.md.amber.G600{color: #FFB300;}
+.md.amber.G700{color: #FFA000;}
+.md.amber.G800{color: #FF8F00;}
+.md.amber.G900{color: #FF6F00;}
 .md.amber.A100{color: #FFE57F;}
 .md.amber.A200{color: #FFD740;}
 .md.amber.A400{color: #FFC400;}
@@ -269,16 +269,16 @@
  *	Material Design Orange
  *
  */
-.md.orange, .md.orange.500{color: #FF9800;}
-.md.orange.50{color: #FFF3E0;}
-.md.orange.100{color: #FFE0B2;}
-.md.orange.200{color: #FFCC80;}
-.md.orange.300{color: #FFB74D;}
-.md.orange.400{color: #FFA726;}
-.md.orange.600{color: #FB8C00;}
-.md.orange.700{color: #F57C00;}
-.md.orange.800{color: #EF6C00;}
-.md.orange.900{color: #E65100;}
+.md.orange, .md.orange.G500{color: #FF9800;}
+.md.orange.G50{color: #FFF3E0;}
+.md.orange.G100{color: #FFE0B2;}
+.md.orange.G200{color: #FFCC80;}
+.md.orange.G300{color: #FFB74D;}
+.md.orange.G400{color: #FFA726;}
+.md.orange.G600{color: #FB8C00;}
+.md.orange.G700{color: #F57C00;}
+.md.orange.G800{color: #EF6C00;}
+.md.orange.G900{color: #E65100;}
 .md.orange.A100{color: #FFD180;}
 .md.orange.A200{color: #FFAB40;}
 .md.orange.A400{color: #FF9100;}
@@ -288,16 +288,16 @@
  *	Material Design Deep Orange
  *
  */
-.md.deep-orange, .md.deep-orange.500{color: #FF5722;}
-.md.deep-orange.50{color: #FBE9E7;}
-.md.deep-orange.100{color: #FFCCBC;}
-.md.deep-orange.200{color: #FFAB91;}
-.md.deep-orange.300{color: #FF8A65;}
-.md.deep-orange.400{color: #FF7043;}
-.md.deep-orange.600{color: #F4511E;}
-.md.deep-orange.700{color: #E64A19;}
-.md.deep-orange.800{color: #D84315;}
-.md.deep-orange.900{color: #BF360C;}
+.md.deep-orange, .md.deep-orange.G500{color: #FF5722;}
+.md.deep-orange.G50{color: #FBE9E7;}
+.md.deep-orange.G100{color: #FFCCBC;}
+.md.deep-orange.G200{color: #FFAB91;}
+.md.deep-orange.G300{color: #FF8A65;}
+.md.deep-orange.G400{color: #FF7043;}
+.md.deep-orange.G600{color: #F4511E;}
+.md.deep-orange.G700{color: #E64A19;}
+.md.deep-orange.G800{color: #D84315;}
+.md.deep-orange.G900{color: #BF360C;}
 .md.deep-orange.A100{color: #FF9E80;}
 .md.deep-orange.A200{color: #FF6E40;}
 .md.deep-orange.A400{color: #FF3D00;}
@@ -307,46 +307,46 @@
  *	Material Design Brown
  *
  */
-.md.brown, .md.brown.500{color: #795548;}
-.md.brown.50{color: #EFEBE9;}
-.md.brown.100{color: #D7CCC8;}
-.md.brown.200{color: #BCAAA4;}
-.md.brown.300{color: #A1887F;}
-.md.brown.400{color: #8D6E63;}
-.md.brown.600{color: #6D4C41;}
-.md.brown.700{color: #5D4037;}
-.md.brown.800{color: #4E342E;}
-.md.brown.900{color: #3E2723;}
+.md.brown, .md.brown.G500{color: #795548;}
+.md.brown.G50{color: #EFEBE9;}
+.md.brown.G100{color: #D7CCC8;}
+.md.brown.G200{color: #BCAAA4;}
+.md.brown.G300{color: #A1887F;}
+.md.brown.G400{color: #8D6E63;}
+.md.brown.G600{color: #6D4C41;}
+.md.brown.G700{color: #5D4037;}
+.md.brown.G800{color: #4E342E;}
+.md.brown.G900{color: #3E2723;}
 /*
  *
  *	Material Design Gray
  *
  */
-.md.gray, .md.gray.500{color: #9E9E9E;}
-.md.gray.50{color: #FAFAFA;}
-.md.gray.100{color: #F5F5F5;}
-.md.gray.200{color: #EEEEEE;}
-.md.gray.300{color: #E0E0E0;}
-.md.gray.400{color: #BDBDBD;}
-.md.gray.600{color: #757575;}
-.md.gray.700{color: #616161;}
-.md.gray.800{color: #424242;}
-.md.gray.900{color: #212121;}
+.md.gray, .md.gray.G500{color: #9E9E9E;}
+.md.gray.G50{color: #FAFAFA;}
+.md.gray.G100{color: #F5F5F5;}
+.md.gray.G200{color: #EEEEEE;}
+.md.gray.G300{color: #E0E0E0;}
+.md.gray.G400{color: #BDBDBD;}
+.md.gray.G600{color: #757575;}
+.md.gray.G700{color: #616161;}
+.md.gray.G800{color: #424242;}
+.md.gray.G900{color: #212121;}
 /*
  *
  *	Material Design Blue Gray
  *
  */
-.md.blue-gray, .md.blue-gray.500{color: #607D8B;}
-.md.blue-gray.50{color: #ECEFF1;}
-.md.blue-gray.100{color: #CFD8DC;}
-.md.blue-gray.200{color: #B0BEC5;}
-.md.blue-gray.300{color: #90A4AE;}
-.md.blue-gray.400{color: #78909C;}
-.md.blue-gray.600{color: #546E7A;}
-.md.blue-gray.700{color: #455A64;}
-.md.blue-gray.800{color: #37474F;}
-.md.blue-gray.900{color: #263238;}
+.md.blue-gray, .md.blue-gray.G500{color: #607D8B;}
+.md.blue-gray.G50{color: #ECEFF1;}
+.md.blue-gray.G100{color: #CFD8DC;}
+.md.blue-gray.G200{color: #B0BEC5;}
+.md.blue-gray.G300{color: #90A4AE;}
+.md.blue-gray.G400{color: #78909C;}
+.md.blue-gray.G600{color: #546E7A;}
+.md.blue-gray.G700{color: #455A64;}
+.md.blue-gray.G800{color: #37474F;}
+.md.blue-gray.G900{color: #263238;}
 
 .md.white{color: #FFFFFF;}
 .md.black{color: #000000;}

@@ -3,16 +3,16 @@
  *	Material Design Red
  *
  */
-.md.red, .md.red.500{background: #F44336;}
-.md.red.50{background: #FFEBEE;}
-.md.red.100{background: #FFCDD2;}
-.md.red.200{background: #EF9A9A;}
-.md.red.300{background: #E57373;}
-.md.red.400{background: #EF5350;}
-.md.red.600{background: #E53935;}
-.md.red.700{background: #D32F2F;}
-.md.red.800{background: #C62828;}
-.md.red.900{background: #B71C1C;}
+.md.red, .md.red.G500{background: #F44336;}
+.md.red.G50{background: #FFEBEE;}
+.md.red.G100{background: #FFCDD2;}
+.md.red.G200{background: #EF9A9A;}
+.md.red.G300{background: #E57373;}
+.md.red.G400{background: #EF5350;}
+.md.red.G600{background: #E53935;}
+.md.red.G700{background: #D32F2F;}
+.md.red.G800{background: #C62828;}
+.md.red.G900{background: #B71C1C;}
 .md.red.A100{background: #FF8A80;}
 .md.red.A200{background: #FF5252;}
 .md.red.A400{background: #FF1744;}
@@ -22,16 +22,16 @@
  *	Material Design Pink
  *
  */
-.md.pink, .md.pink.500{background: #E91E63;}
-.md.pink.50{background: #FCE4EC;}
-.md.pink.100{background: #F8BBD0;}
-.md.pink.200{background: #F48FB1;}
-.md.pink.300{background: #F06292;}
-.md.pink.400{background: #EC407A;}
-.md.pink.600{background: #D81B60;}
-.md.pink.700{background: #C2185B;}
-.md.pink.800{background: #AD1457;}
-.md.pink.900{background: #880E4F;}
+.md.pink, .md.pink.G500{background: #E91E63;}
+.md.pink.G50{background: #FCE4EC;}
+.md.pink.G100{background: #F8BBD0;}
+.md.pink.G200{background: #F48FB1;}
+.md.pink.G300{background: #F06292;}
+.md.pink.G400{background: #EC407A;}
+.md.pink.G600{background: #D81B60;}
+.md.pink.G700{background: #C2185B;}
+.md.pink.G800{background: #AD1457;}
+.md.pink.G900{background: #880E4F;}
 .md.pink.A100{background: #FF80AB;}
 .md.pink.A200{background: #FF4081;}
 .md.pink.A400{background: #F50057;}
@@ -41,16 +41,16 @@
  *	Material Design Purple
  *
  */
-.md.purple, .md.purple.500{background: #9C27B0;}
-.md.purple.50{background: #F3E5F5;}
-.md.purple.100{background: #E1BEE7;}
-.md.purple.200{background: #CE93D8;}
-.md.purple.300{background: #BA68C8;}
-.md.purple.400{background: #AB47BC;}
-.md.purple.600{background: #8E24AA;}
-.md.purple.700{background: #7B1FA2;}
-.md.purple.800{background: #6A1B9A;}
-.md.purple.900{background: #4A148C;}
+.md.purple, .md.purple.G500{background: #9C27B0;}
+.md.purple.G50{background: #F3E5F5;}
+.md.purple.G100{background: #E1BEE7;}
+.md.purple.G200{background: #CE93D8;}
+.md.purple.G300{background: #BA68C8;}
+.md.purple.G400{background: #AB47BC;}
+.md.purple.G600{background: #8E24AA;}
+.md.purple.G700{background: #7B1FA2;}
+.md.purple.G800{background: #6A1B9A;}
+.md.purple.G900{background: #4A148C;}
 .md.purple.A100{background: #EA80FC;}
 .md.purple.A200{background: #E040FB;}
 .md.purple.A400{background: #D500F9;}
@@ -60,16 +60,16 @@
  *	Material Design Deep Purple
  *
  */
-.md.deep-purple, .md.deep-purple.500{background: #673AB7;}
-.md.deep-purple.50{background: #EDE7F6;}
-.md.deep-purple.100{background: #D1C4E9;}
-.md.deep-purple.200{background: #B39DDB;}
-.md.deep-purple.300{background: #9575CD;}
-.md.deep-purple.400{background: #7E57C2;}
-.md.deep-purple.600{background: #5E35B1;}
-.md.deep-purple.700{background: #512DA8;}
-.md.deep-purple.800{background: #4527A0;}
-.md.deep-purple.900{background: #311B92;}
+.md.deep-purple, .md.deep-purple.G500{background: #673AB7;}
+.md.deep-purple.G50{background: #EDE7F6;}
+.md.deep-purple.G100{background: #D1C4E9;}
+.md.deep-purple.G200{background: #B39DDB;}
+.md.deep-purple.G300{background: #9575CD;}
+.md.deep-purple.G400{background: #7E57C2;}
+.md.deep-purple.G600{background: #5E35B1;}
+.md.deep-purple.G700{background: #512DA8;}
+.md.deep-purple.G800{background: #4527A0;}
+.md.deep-purple.G900{background: #311B92;}
 .md.deep-purple.A100{background: #B388FF;}
 .md.deep-purple.A200{background: #7C4DFF;}
 .md.deep-purple.A400{background: #651FFF;}
@@ -79,16 +79,16 @@
  *	Material Design Deep Indigo 
  *
  */
-.md.indigo, .md.indigo.500{background: #3F51B5;}
-.md.indigo.50{background: #E8EAF6;}
-.md.indigo.100{background: #C5CAE9;}
-.md.indigo.200{background: #9FA8DA;}
-.md.indigo.300{background: #7986CB;}
-.md.indigo.400{background: #5C6BC0;}
-.md.indigo.600{background: #3949AB;}
-.md.indigo.700{background: #303F9F;}
-.md.indigo.800{background: #283593;}
-.md.indigo.900{background: #1A237E;}
+.md.indigo, .md.indigo.G500{background: #3F51B5;}
+.md.indigo.G50{background: #E8EAF6;}
+.md.indigo.G100{background: #C5CAE9;}
+.md.indigo.G200{background: #9FA8DA;}
+.md.indigo.G300{background: #7986CB;}
+.md.indigo.G400{background: #5C6BC0;}
+.md.indigo.G600{background: #3949AB;}
+.md.indigo.G700{background: #303F9F;}
+.md.indigo.G800{background: #283593;}
+.md.indigo.G900{background: #1A237E;}
 .md.indigo.A100{background: #8C9EFF;}
 .md.indigo.A200{background: #536DFE;}
 .md.indigo.A400{background: #3D5AFE;}
@@ -98,35 +98,35 @@
  *	Material Design Blue  
  *
  */
-.md.light-blue, .md.light-blue.500{background: #2196F3;}
-.md.light-blue.50{background: #E3F2FD;}
-.md.light-blue.100{background: #BBDEFB;}
-.md.light-blue.200{background: #90CAF9;}
-.md.light-blue.300{background: #64B5F6;}
-.md.light-blue.400{background: #42A5F5;}
-.md.light-blue.600{background: #1E88E5;}
-.md.light-blue.700{background: #1976D2;}
-.md.light-blue.800{background: #1565C0;}
-.md.light-blue.900{background: #0D47A1;}
-.md.light-blue.A100{background: #82B1FF;}
-.md.light-blue.A200{background: #448AFF;}
-.md.light-blue.A400{background: #2979FF;}
-.md.light-blue.A700{background: #2962FF;}
+.md.blue, .md.blue.G500{background: #2196F3;}
+.md.blue.G50{background: #E3F2FD;}
+.md.blue.G100{background: #BBDEFB;}
+.md.blue.G200{background: #90CAF9;}
+.md.blue.G300{background: #64B5F6;}
+.md.blue.G400{background: #42A5F5;}
+.md.blue.G600{background: #1E88E5;}
+.md.blue.G700{background: #1976D2;}
+.md.blue.G800{background: #1565C0;}
+.md.blue.G900{background: #0D47A1;}
+.md.blue.A100{background: #82B1FF;}
+.md.blue.A200{background: #448AFF;}
+.md.blue.A400{background: #2979FF;}
+.md.blue.A700{background: #2962FF;}
 /*
  *
  *	Material Design Light Blue  
  *
  */
-.md.light-blue, .md.light-blue.500{background: #03A9F4;}
-.md.light-blue.50{background: #E1F5FE;}
-.md.light-blue.100{background: #B3E5FC;}
-.md.light-blue.200{background: #81D4FA;}
-.md.light-blue.300{background: #4FC3F7;}
-.md.light-blue.400{background: #29B6F6;}
-.md.light-blue.600{background: #039BE5;}
-.md.light-blue.700{background: #0288D1;}
-.md.light-blue.800{background: #0277BD;}
-.md.light-blue.900{background: #01579B;}
+.md.light-blue, .md.light-blue.G500{background: #03A9F4;}
+.md.light-blue.G50{background: #E1F5FE;}
+.md.light-blue.G100{background: #B3E5FC;}
+.md.light-blue.G200{background: #81D4FA;}
+.md.light-blue.G300{background: #4FC3F7;}
+.md.light-blue.G400{background: #29B6F6;}
+.md.light-blue.G600{background: #039BE5;}
+.md.light-blue.G700{background: #0288D1;}
+.md.light-blue.G800{background: #0277BD;}
+.md.light-blue.G900{background: #01579B;}
 .md.light-blue.A100{background: #80D8FF;}
 .md.light-blue.A200{background: #40C4FF;}
 .md.light-blue.A400{background: #00B0FF;}
@@ -136,16 +136,16 @@
  *	Material Design Cyan  
  *
  */
-.md.cyan, .md.cyan.500{background: #00BCD4;}
-.md.cyan.50{background: #E0F7FA;}
-.md.cyan.100{background: #B2EBF2;}
-.md.cyan.200{background: #80DEEA;}
-.md.cyan.300{background: #4DD0E1;}
-.md.cyan.400{background: #26C6DA;}
-.md.cyan.600{background: #00ACC1;}
-.md.cyan.700{background: #0097A7;}
-.md.cyan.800{background: #00838F;}
-.md.cyan.900{background: #006064;}
+.md.cyan, .md.cyan.G500{background: #00BCD4;}
+.md.cyan.G50{background: #E0F7FA;}
+.md.cyan.G100{background: #B2EBF2;}
+.md.cyan.G200{background: #80DEEA;}
+.md.cyan.G300{background: #4DD0E1;}
+.md.cyan.G400{background: #26C6DA;}
+.md.cyan.G600{background: #00ACC1;}
+.md.cyan.G700{background: #0097A7;}
+.md.cyan.G800{background: #00838F;}
+.md.cyan.G900{background: #006064;}
 .md.cyan.A100{background: #84FFFF;}
 .md.cyan.A200{background: #18FFFF;}
 .md.cyan.A400{background: #00E5FF;}
@@ -155,16 +155,16 @@
  *	Material Design Teal  
  *
  */
-.md.teal, .md.teal.500{background: #009688;}
-.md.teal.50{background: #E0F2F1;}
-.md.teal.100{background: #B2DFDB;}
-.md.teal.200{background: #80CBC4;}
-.md.teal.300{background: #4DB6AC;}
-.md.teal.400{background: #26A69A;}
-.md.teal.600{background: #00897B;}
-.md.teal.700{background: #00796B;}
-.md.teal.800{background: #00695C;}
-.md.teal.900{background: #004D40;}
+.md.teal, .md.teal.G500{background: #009688;}
+.md.teal.G50{background: #E0F2F1;}
+.md.teal.G100{background: #B2DFDB;}
+.md.teal.G200{background: #80CBC4;}
+.md.teal.G300{background: #4DB6AC;}
+.md.teal.G400{background: #26A69A;}
+.md.teal.G600{background: #00897B;}
+.md.teal.G700{background: #00796B;}
+.md.teal.G800{background: #00695C;}
+.md.teal.G900{background: #004D40;}
 .md.teal.A100{background: #A7FFEB;}
 .md.teal.A200{background: #64FFDA;}
 .md.teal.A400{background: #1DE9B6;}
@@ -174,16 +174,16 @@
  *	Material Design Green  
  *
  */
-.md.green, .md.green.500{background: #4CAF50;}
-.md.green.50{background: #E8F5E9;}
-.md.green.100{background: #C8E6C9;}
-.md.green.200{background: #A5D6A7;}
-.md.green.300{background: #81C784;}
-.md.green.400{background: #66BB6A;}
-.md.green.600{background: #43A047;}
-.md.green.700{background: #388E3C;}
-.md.green.800{background: #2E7D32;}
-.md.green.900{background: #1B5E20;}
+.md.green, .md.green.G500{background: #4CAF50;}
+.md.green.G50{background: #E8F5E9;}
+.md.green.G100{background: #C8E6C9;}
+.md.green.G200{background: #A5D6A7;}
+.md.green.G300{background: #81C784;}
+.md.green.G400{background: #66BB6A;}
+.md.green.G600{background: #43A047;}
+.md.green.G700{background: #388E3C;}
+.md.green.G800{background: #2E7D32;}
+.md.green.G900{background: #1B5E20;}
 .md.green.A100{background: #B9F6CA;}
 .md.green.A200{background: #69F0AE;}
 .md.green.A400{background: #00E676;}
@@ -193,16 +193,16 @@
  *	Material Design Light Green  
  *
  */
-.md.light-green, .md.light-green.500{background: #8BC34A;}
-.md.light-green.50{background: #F1F8E9;}
-.md.light-green.100{background: #DCEDC8;}
-.md.light-green.200{background: #C5E1A5;}
-.md.light-green.300{background: #AED581;}
-.md.light-green.400{background: #9CCC65;}
-.md.light-green.600{background: #7CB342;}
-.md.light-green.700{background: #689F38;}
-.md.light-green.800{background: #558B2F;}
-.md.light-green.900{background: #33691E;}
+.md.light-green, .md.light-green.G500{background: #8BC34A;}
+.md.light-green.G50{background: #F1F8E9;}
+.md.light-green.G100{background: #DCEDC8;}
+.md.light-green.G200{background: #C5E1A5;}
+.md.light-green.G300{background: #AED581;}
+.md.light-green.G400{background: #9CCC65;}
+.md.light-green.G600{background: #7CB342;}
+.md.light-green.G700{background: #689F38;}
+.md.light-green.G800{background: #558B2F;}
+.md.light-green.G900{background: #33691E;}
 .md.light-green.A100{background: #CCFF90;}
 .md.light-green.A200{background: #B2FF59;}
 .md.light-green.A400{background: #76FF03;}
@@ -212,16 +212,16 @@
  *	Material Design Lime
  *
  */
-.md.lime, .md.lime.500{background: #CDDC39;}
-.md.lime.50{background: #F9FBE7;}
-.md.lime.100{background: #F0F4C3;}
-.md.lime.200{background: #E6EE9C;}
-.md.lime.300{background: #DCE775;}
-.md.lime.400{background: #D4E157;}
-.md.lime.600{background: #C0CA33;}
-.md.lime.700{background: #AFB42B;}
-.md.lime.800{background: #9E9D24;}
-.md.lime.900{background: #827717;}
+.md.lime, .md.lime.G500{background: #CDDC39;}
+.md.lime.G50{background: #F9FBE7;}
+.md.lime.G100{background: #F0F4C3;}
+.md.lime.G200{background: #E6EE9C;}
+.md.lime.G300{background: #DCE775;}
+.md.lime.G400{background: #D4E157;}
+.md.lime.G600{background: #C0CA33;}
+.md.lime.G700{background: #AFB42B;}
+.md.lime.G800{background: #9E9D24;}
+.md.lime.G900{background: #827717;}
 .md.lime.A100{background: #F4FF81;}
 .md.lime.A200{background: #EEFF41;}
 .md.lime.A400{background: #C6FF00;}
@@ -231,16 +231,16 @@
  *	Material Design Yellow
  *
  */
-.md.yellow, .md.yellow.500{background: #FFEB3B;}
-.md.yellow.50{background: #FFFDE7;}
-.md.yellow.100{background: #FFF9C4;}
-.md.yellow.200{background: #FFF59D;}
-.md.yellow.300{background: #FFF176;}
-.md.yellow.400{background: #FFEE58;}
-.md.yellow.600{background: #FDD835;}
-.md.yellow.700{background: #FBC02D;}
-.md.yellow.800{background: #F9A825;}
-.md.yellow.900{background: #F57F17;}
+.md.yellow, .md.yellow.G500{background: #FFEB3B;}
+.md.yellow.G50{background: #FFFDE7;}
+.md.yellow.G100{background: #FFF9C4;}
+.md.yellow.G200{background: #FFF59D;}
+.md.yellow.G300{background: #FFF176;}
+.md.yellow.G400{background: #FFEE58;}
+.md.yellow.G600{background: #FDD835;}
+.md.yellow.G700{background: #FBC02D;}
+.md.yellow.G800{background: #F9A825;}
+.md.yellow.G900{background: #F57F17;}
 .md.yellow.A100{background: #FFFF8D;}
 .md.yellow.A200{background: #FFFF00;}
 .md.yellow.A400{background: #FFEA00;}
@@ -250,16 +250,16 @@
  *	Material Design Amber
  *
  */
-.md.amber, .md.amber.500{background: #FFC107;}
-.md.amber.50{background: #FFF8E1;}
-.md.amber.100{background: #FFECB3;}
-.md.amber.200{background: #FFE082;}
-.md.amber.300{background: #FFD54F;}
-.md.amber.400{background: #FFCA28;}
-.md.amber.600{background: #FFB300;}
-.md.amber.700{background: #FFA000;}
-.md.amber.800{background: #FF8F00;}
-.md.amber.900{background: #FF6F00;}
+.md.amber, .md.amber.G500{background: #FFC107;}
+.md.amber.G50{background: #FFF8E1;}
+.md.amber.G100{background: #FFECB3;}
+.md.amber.G200{background: #FFE082;}
+.md.amber.G300{background: #FFD54F;}
+.md.amber.G400{background: #FFCA28;}
+.md.amber.G600{background: #FFB300;}
+.md.amber.G700{background: #FFA000;}
+.md.amber.G800{background: #FF8F00;}
+.md.amber.G900{background: #FF6F00;}
 .md.amber.A100{background: #FFE57F;}
 .md.amber.A200{background: #FFD740;}
 .md.amber.A400{background: #FFC400;}
@@ -269,16 +269,16 @@
  *	Material Design Orange
  *
  */
-.md.orange, .md.orange.500{background: #FF9800;}
-.md.orange.50{background: #FFF3E0;}
-.md.orange.100{background: #FFE0B2;}
-.md.orange.200{background: #FFCC80;}
-.md.orange.300{background: #FFB74D;}
-.md.orange.400{background: #FFA726;}
-.md.orange.600{background: #FB8C00;}
-.md.orange.700{background: #F57C00;}
-.md.orange.800{background: #EF6C00;}
-.md.orange.900{background: #E65100;}
+.md.orange, .md.orange.G500{background: #FF9800;}
+.md.orange.G50{background: #FFF3E0;}
+.md.orange.G100{background: #FFE0B2;}
+.md.orange.G200{background: #FFCC80;}
+.md.orange.G300{background: #FFB74D;}
+.md.orange.G400{background: #FFA726;}
+.md.orange.G600{background: #FB8C00;}
+.md.orange.G700{background: #F57C00;}
+.md.orange.G800{background: #EF6C00;}
+.md.orange.G900{background: #E65100;}
 .md.orange.A100{background: #FFD180;}
 .md.orange.A200{background: #FFAB40;}
 .md.orange.A400{background: #FF9100;}
@@ -288,16 +288,16 @@
  *	Material Design Deep Orange
  *
  */
-.md.deep-orange, .md.deep-orange.500{background: #FF5722;}
-.md.deep-orange.50{background: #FBE9E7;}
-.md.deep-orange.100{background: #FFCCBC;}
-.md.deep-orange.200{background: #FFAB91;}
-.md.deep-orange.300{background: #FF8A65;}
-.md.deep-orange.400{background: #FF7043;}
-.md.deep-orange.600{background: #F4511E;}
-.md.deep-orange.700{background: #E64A19;}
-.md.deep-orange.800{background: #D84315;}
-.md.deep-orange.900{background: #BF360C;}
+.md.deep-orange, .md.deep-orange.G500{background: #FF5722;}
+.md.deep-orange.G50{background: #FBE9E7;}
+.md.deep-orange.G100{background: #FFCCBC;}
+.md.deep-orange.G200{background: #FFAB91;}
+.md.deep-orange.G300{background: #FF8A65;}
+.md.deep-orange.G400{background: #FF7043;}
+.md.deep-orange.G600{background: #F4511E;}
+.md.deep-orange.G700{background: #E64A19;}
+.md.deep-orange.G800{background: #D84315;}
+.md.deep-orange.G900{background: #BF360C;}
 .md.deep-orange.A100{background: #FF9E80;}
 .md.deep-orange.A200{background: #FF6E40;}
 .md.deep-orange.A400{background: #FF3D00;}
@@ -307,46 +307,46 @@
  *	Material Design Brown
  *
  */
-.md.brown, .md.brown.500{background: #795548;}
-.md.brown.50{background: #EFEBE9;}
-.md.brown.100{background: #D7CCC8;}
-.md.brown.200{background: #BCAAA4;}
-.md.brown.300{background: #A1887F;}
-.md.brown.400{background: #8D6E63;}
-.md.brown.600{background: #6D4C41;}
-.md.brown.700{background: #5D4037;}
-.md.brown.800{background: #4E342E;}
-.md.brown.900{background: #3E2723;}
+.md.brown, .md.brown.G500{background: #795548;}
+.md.brown.G50{background: #EFEBE9;}
+.md.brown.G100{background: #D7CCC8;}
+.md.brown.G200{background: #BCAAA4;}
+.md.brown.G300{background: #A1887F;}
+.md.brown.G400{background: #8D6E63;}
+.md.brown.G600{background: #6D4C41;}
+.md.brown.G700{background: #5D4037;}
+.md.brown.G800{background: #4E342E;}
+.md.brown.G900{background: #3E2723;}
 /*
  *
  *	Material Design Gray
  *
  */
-.md.gray, .md.gray.500{background: #9E9E9E;}
-.md.gray.50{background: #FAFAFA;}
-.md.gray.100{background: #F5F5F5;}
-.md.gray.200{background: #EEEEEE;}
-.md.gray.300{background: #E0E0E0;}
-.md.gray.400{background: #BDBDBD;}
-.md.gray.600{background: #757575;}
-.md.gray.700{background: #616161;}
-.md.gray.800{background: #424242;}
-.md.gray.900{background: #212121;}
+.md.gray, .md.gray.G500{background: #9E9E9E;}
+.md.gray.G50{background: #FAFAFA;}
+.md.gray.G100{background: #F5F5F5;}
+.md.gray.G200{background: #EEEEEE;}
+.md.gray.G300{background: #E0E0E0;}
+.md.gray.G400{background: #BDBDBD;}
+.md.gray.G600{background: #757575;}
+.md.gray.G700{background: #616161;}
+.md.gray.G800{background: #424242;}
+.md.gray.G900{background: #212121;}
 /*
  *
  *	Material Design Blue Gray
  *
  */
-.md.blue-gray, .md.blue-gray.500{background: #607D8B;}
-.md.blue-gray.50{background: #ECEFF1;}
-.md.blue-gray.100{background: #CFD8DC;}
-.md.blue-gray.200{background: #B0BEC5;}
-.md.blue-gray.300{background: #90A4AE;}
-.md.blue-gray.400{background: #78909C;}
-.md.blue-gray.600{background: #546E7A;}
-.md.blue-gray.700{background: #455A64;}
-.md.blue-gray.800{background: #37474F;}
-.md.blue-gray.900{background: #263238;}
+.md.blue-gray, .md.blue-gray.G500{background: #607D8B;}
+.md.blue-gray.G50{background: #ECEFF1;}
+.md.blue-gray.G100{background: #CFD8DC;}
+.md.blue-gray.G200{background: #B0BEC5;}
+.md.blue-gray.G300{background: #90A4AE;}
+.md.blue-gray.G400{background: #78909C;}
+.md.blue-gray.G600{background: #546E7A;}
+.md.blue-gray.G700{background: #455A64;}
+.md.blue-gray.G800{background: #37474F;}
+.md.blue-gray.G900{background: #263238;}
 
 .md.white{background: #FFFFFF;}
 .md.black{background: #000000;}
